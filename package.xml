@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>robotiq_arg140_description</name>
+  <version>0.0.1</version>
+  <description>Robotiq ARG140 Gripper Description</description>
+  <maintainer email="ryan@rwsinnet.com.com">Ryan Sinnet</maintainer>
+  <author email="ryan@rwsinnet.com">Ryan Sinnet</author>
+  <license>BSD</license>
+  <url type="repository">https://github.com/MisoRobotics/robotiq_arg140_description.git</url>
+  <url type="website">https://github.com/MisoRobotics/robotiq_arg140_description/wiki</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <exec_depend>urdf</exec_depend>
+
+  <export/>
+</package>
